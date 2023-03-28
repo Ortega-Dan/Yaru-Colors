@@ -1,8 +1,4 @@
-![Logo](src/Yaru-Colors-Logo.svg)
-
 **Yaru-Colors is a theme project to bring different colors to Ubuntu's awesome Yaru theme.**  
-
-[Original Yaru's git](https://github.com/ubuntu/yaru)  
 
 This is awesome. Just use manual install for the least level of intrusion to the system the system.
 
